@@ -27,4 +27,5 @@ python visual.py -m
 ```
 
 
-## Demonstration
+## Demo
+![Demo of Tetris AI](demonstration.gif)
