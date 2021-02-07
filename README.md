@@ -28,4 +28,5 @@ python visual.py -m
 
 
 ## Demo
-![Demo of Tetris AI](demonstration.gif)
+
+<img src="demonstration.gif" alt="Demo of Tetris AI" width="120">
